@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "AbhishekTask"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a05529d5-054a-43d4-98f0-5ccf3abc0d0b"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "AbhishekTask"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "915aee71-e130-4327-b349-7f57fd1cc7aa"
+  }
+}
